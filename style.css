@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(161, 202, 238);
+}
+
+table {
+  width: 1000px;
+}
+table {
+  font-size: 30px;
+}
+table,
+tr,
+th,
+td {
+  border: 2px solid rgb(238, 255, 0);
+}
+
+body {
+  font-family: sans-serif;
+  margin: auto;
+  width: 80%;
+}
+
+p {
+  width: 50%;
+  margin-left: 1%;
+}
+h1,
+h2,
+h3,
+h4 {
+  margin: 1%;
+}
+img {
+  margin-left: 1%;
+}
+
+.inicio{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+  border-bottom: 2px dashed black;
+  padding-bottom: 30px;
+}
